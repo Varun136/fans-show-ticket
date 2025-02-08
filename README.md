@@ -5,7 +5,7 @@ This is a learning project designed to help theaters facilitate ticket booking f
 ## Services Overview  
 
 - **User Service**  
-  Manages user registration, login, and authentication.  
+  Manages user OTP login and authorization
 
 - **Event Service**  
   Handles event creation, listing, and management.  
